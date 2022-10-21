@@ -1,0 +1,25 @@
+<svg id="Ebene_1" data-name="Ebene 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 189 63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #d1d6da;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+
+      .cls-3 {
+        fill: #00a6de;
+      }
+    </style>
+  </defs>
+  <title>Zeichenfläche 1</title>
+  <polygon class="cls-1" points="77 42 77 14 14 14 14 42 21 42 21 49 28 49 28 56 63 56 63 49 70 49 70 42 77 42"/>
+  <polygon class="cls-1" points="175 42 175 14 112 14 112 42 119 42 119 49 126 49 126 56 161 56 161 49 168 49 168 42 175 42"/>
+  <path d="M14,14H77V42H70v7H63v7H28V49H21V42H14Zm98,0h63V42h-7v7h-7v7H126V49h-7V42h-7ZM105,0V14H84V0H0V21H7V49h7v7h7v7H70V56h7V49h7V35h7V28h7v7h7V49h7v7h7v7h49V56h7V49h7V21h7V0Z"/>
+  <polygon class="cls-2" points="52.61 35 52.61 24.5 49.11 24.5 42.11 24.5 42.11 28 42.11 35 49.11 35 52.61 35"/>
+  <polygon class="cls-3" points="63.11 35 63.11 24.5 59.61 24.5 52.61 24.5 52.61 28 52.61 35 59.61 35 63.11 35"/>
+  <polygon class="cls-2" points="150.61 35 150.61 24.5 147.11 24.5 140.11 24.5 140.11 28 140.11 35 147.11 35 150.61 35"/>
+  <polygon class="cls-3" points="161.11 35 161.11 24.5 157.61 24.5 150.61 24.5 150.61 28 150.61 35 157.61 35 161.11 35"/>
+</svg>
