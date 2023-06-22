@@ -27,3 +27,7 @@ In der gpl-Datei sind alle Farben enthalten
 ## 03 Illustrationen Auswahl
 
 Einige unserer "Friends" sowie das Alpaka-Gesicht
+
+# Jugend hackt Logo
+
+Das Schrift-Logo "Jugend hackt - Mit Code die Welt verbessern" ist nicht Teil dieser Sammlung, weil die Nutzung auf Angebote von Jugend hackt und entsprechend vereinbarte Partnerschaften begrenzt ist. Sind diese Bedingungen gegeben, kann man das Logo hier herunterladen: https://jugendhackt.org/design/logo/
